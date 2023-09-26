@@ -23,6 +23,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                 if (!string.IsNullOrEmpty(_logfile))
                 {
                     return _logfile;
+                    Console.WriteLine("Hi Heelo");
                 }
                 return "C:\\Users\\thearaphat\\source\\jobrun\\WOLF_START_ReplaceReportMBK_PROCESS\\WOLF_START_ReplaceReportMBK_PROCESS\\Log\\";
             }
