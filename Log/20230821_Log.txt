@@ -1,0 +1,120 @@
+05:33:03 PM - Start Report Dynamic ID :1301
+
+05:33:03 PM - Start list_CustomReportTemplate :1301
+
+05:33:05 PM - Start jsonFieldCollection :1301
+
+05:33:05 PM - Start GetSP_ReportTodt :1301
+
+05:33:05 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2262
+
+05:33:05 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2334
+
+05:33:05 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2344
+
+05:33:05 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2388
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2389
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2390
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2392
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2396
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2399
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2403
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2409
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2410
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2420
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2431
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',2437
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',23914
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',23933
+
+05:33:06 PM - Query : EXEC SP_GetReport 0,'Memo_PersonWaiting,Memo_TemplateSubject,Memo_StatusName,Memo_RequestDate,Memo_DocumentNo,Memo_MemoId,Memo_TemplateId',' AND Memo_TemplateId IN (2262,2334,2344,2388,2389,2390,2392,2396,2399,2403,2409,2410,2420,2431,2437,23914,23933,23935)',23935
+
+05:33:07 PM - start Get_DataTable StatTic :1301count :8594
+
+05:33:07 PM - start Get_DataTable StatusFindDate :False
+
+05:33:07 PM - start Get_DataTable getReturnDate :100
+
+05:33:07 PM - start GetStaticFieldTodt :1301
+
+05:33:07 PM - end GetStaticFieldTodt :1301count :8594
+
+05:33:07 PM - start DistinctDatatable :1301
+
+05:33:11 PM - end DistinctDatatable :1301count :8594
+
+05:33:20 PM - end Get_DataTable StatTic :1301
+
+05:33:20 PM - start Get_DataTable Dynamic :1301
+
+05:33:20 PM - start GetDynamicFieldTodt :1301
+
+05:33:28 PM - end GetDynamicFieldTodt :1301count :8594
+
+05:33:28 PM - start DistinctDatatable :1301
+
+05:33:30 PM - end DistinctDatatable :1301count :8594
+
+05:33:30 PM - end Get_DataTable Dynamic :1301
+
+05:33:30 PM - start Get_DataTable Dynamic table :1301
+
+05:33:30 PM - start GetDynamicTableTodt :1301
+
+05:33:40 PM - dt1 : 6384
+
+05:33:40 PM - dt2 : 6384
+
+05:33:40 PM - dt1 : 6384
+
+05:33:40 PM - dt2 : 6384
+
+05:33:40 PM - dt1 : 6384
+
+05:33:40 PM - dt2 : 6384
+
+05:33:41 PM - dt1 : 6384
+
+05:33:41 PM - dt2 : 6384
+
+05:33:41 PM - dt1 : 6384
+
+05:33:41 PM - dt2 : 6384
+
+05:33:41 PM - dt1 : 6384
+
+05:33:41 PM - dt2 : 6384
+
+05:33:41 PM - dt1 : 6384
+
+05:33:41 PM - dt2 : 6384
+
+05:33:41 PM - dt1 : 6384
+
+05:33:41 PM - dt2 : 6384
+
+05:33:42 PM - dt1 : 6384
+
+05:33:42 PM - dt2 : 6384
+
+05:33:42 PM - dt1 : 6384
+
+05:33:42 PM - dt2 : 6384
+
+05:33:42 PM - dt1 : 6384
+
+05:33:42 PM - dt2 : 6384
+

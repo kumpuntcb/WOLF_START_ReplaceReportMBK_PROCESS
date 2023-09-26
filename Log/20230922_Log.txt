@@ -1,0 +1,4048 @@
+09:41:18 AM - Open
+
+09:41:18 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.MSTEmployee]
+
+09:41:20 AM - Open
+
+09:41:20 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.MSTEmployee]
+
+09:41:33 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.ViewEmployee]
+
+09:41:35 AM - getMemoAllSystem.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+09:41:36 AM - getMemoWaitApp 2228
+
+09:41:36 AM - getMemo 8
+
+09:41:36 AM - 225421
+
+09:41:36 AM - filteredData1
+
+09:41:36 AM - getnextemp 1 521
+
+09:41:36 AM - 22542 1
+
+09:42:59 AM - 225772
+
+09:43:06 AM - filteredData1
+
+09:43:07 AM - getnextemp 2 331
+
+09:43:08 AM - 22577 2
+
+10:07:56 AM - Open
+
+10:07:56 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.MSTEmployee]
+
+10:07:56 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.ViewEmployee]
+
+10:08:13 AM - Open
+
+10:08:13 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.MSTEmployee]
+
+10:08:13 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.ViewEmployee]
+
+10:08:14 AM - getMemoAllSystem.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:08:14 AM - getMemoWaitApp 2228
+
+10:08:14 AM - getMemo 177
+
+10:08:14 AM - 194641
+
+10:08:14 AM - filteredData1
+
+10:08:14 AM - getnextemp 1 11728
+
+10:08:14 AM - 19464 1
+
+10:08:24 AM - getreemp1
+
+10:08:24 AM - getnextemp4
+
+10:08:25 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:08:30 AM - filteredData1
+
+10:08:30 AM - getnextemp 1 408
+
+10:08:31 AM - 19464 1
+
+10:08:31 AM - getreemp1
+
+10:08:32 AM - getnextemp3
+
+10:08:32 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:08:33 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:08:47 AM - MemoId 19464 1
+
+10:08:49 AM - นาย สุขสวัสดิ์ ดวนใหญ่ delegate to นาย ประหยัด บุญคำ
+
+10:09:05 AM - SubmitChanges
+
+10:09:05 AM - 194652
+
+10:09:05 AM - filteredData1
+
+10:09:05 AM - getnextemp 2 11660
+
+10:09:05 AM - 19465 2
+
+10:09:05 AM - getreemp1
+
+10:09:05 AM - getnextemp1
+
+10:09:05 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:05 AM - filteredData1
+
+10:09:05 AM - getnextemp 2 11631
+
+10:09:05 AM - 19465 2
+
+10:09:06 AM - getreemp1
+
+10:09:06 AM - getnextemp1
+
+10:09:06 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:06 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:06 AM - MemoId 19465 2
+
+10:09:06 AM - นางสาว ปิยพร ใจกว้าง delegate to นาง วรารัตน์ บุณยานนท์
+
+10:09:06 AM - SubmitChanges
+
+10:09:06 AM - 198893
+
+10:09:06 AM - filteredData1
+
+10:09:06 AM - getnextemp 3 12962
+
+10:09:06 AM - 19889 3
+
+10:09:07 AM - getreemp1
+
+10:09:07 AM - getnextemp1
+
+10:09:07 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:07 AM - filteredData1
+
+10:09:07 AM - getnextemp 3 166
+
+10:09:07 AM - 19889 3
+
+10:09:07 AM - getreemp1
+
+10:09:07 AM - getnextemp9
+
+10:09:07 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:07 AM - filteredData1
+
+10:09:07 AM - getnextemp 3 92
+
+10:09:07 AM - 19889 3
+
+10:09:07 AM - getreemp1
+
+10:09:07 AM - getnextemp1
+
+10:09:07 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:07 AM - filteredData1
+
+10:09:07 AM - getnextemp 3 11584
+
+10:09:07 AM - 19889 3
+
+10:09:08 AM - getreemp1
+
+10:09:08 AM - getnextemp2
+
+10:09:08 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:08 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:08 AM - MemoId 19889 3
+
+10:09:08 AM - นางสาว เจน ศรีนอนิล delegate to นาย สุเวทย์ ธีรวชิรกุล
+
+10:09:08 AM - SubmitChanges
+
+10:09:08 AM - 204074
+
+10:09:08 AM - filteredData1
+
+10:09:08 AM - getnextemp 4 13068
+
+10:09:08 AM - 20407 4
+
+10:09:08 AM - getreemp1
+
+10:09:08 AM - getnextemp1
+
+10:09:08 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:08 AM - filteredData1
+
+10:09:08 AM - getnextemp 4 13252
+
+10:09:08 AM - 20407 4
+
+10:09:08 AM - getreemp1
+
+10:09:08 AM - getnextemp1
+
+10:09:08 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:08 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:08 AM - MemoId 20407 4
+
+10:09:08 AM - นาย เอกกร อัมบัส delegate to นาย คีตวัฒน์ ต้องเคียน
+
+10:09:08 AM - SubmitChanges
+
+10:09:08 AM - 205115
+
+10:09:08 AM - filteredData1
+
+10:09:08 AM - getnextemp 5 13161
+
+10:09:08 AM - 20511 5
+
+10:09:08 AM - getreemp1
+
+10:09:08 AM - getnextemp4
+
+10:09:08 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:08 AM - filteredData1
+
+10:09:08 AM - getnextemp 5 447
+
+10:09:08 AM - 20511 5
+
+10:09:08 AM - getreemp1
+
+10:09:08 AM - getnextemp2
+
+10:09:08 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:08 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:08 AM - MemoId 20511 5
+
+10:09:08 AM - นางสาว นฤมล เอนอ่อน delegate to นางสาว ขวัญชีวา มั่นระวัง
+
+10:09:08 AM - SubmitChanges
+
+10:09:08 AM - 215606
+
+10:09:08 AM - filteredData1
+
+10:09:08 AM - getnextemp 6 13031
+
+10:09:08 AM - 21560 6
+
+10:09:08 AM - getreemp1
+
+10:09:08 AM - getnextemp1
+
+10:09:08 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:08 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:08 AM - MemoId 21560 6
+
+10:09:08 AM - นางสาว สุจิตรา ตุลบุตร delegate to นางสาว ศตกมล วรกุล
+
+10:09:08 AM - SubmitChanges
+
+10:09:08 AM - 215637
+
+10:09:08 AM - filteredData1
+
+10:09:08 AM - getnextemp 7 24
+
+10:09:08 AM - 21563 7
+
+10:09:09 AM - getreemp1
+
+10:09:09 AM - getnextemp3
+
+10:09:09 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:09 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:09 AM - MemoId 21563 7
+
+10:09:09 AM - นาย ไชยศักดิ์ ว่องกุลเกียรติ delegate to นาย ประหยัด บุญคำ
+
+10:09:09 AM - SubmitChanges
+
+10:09:09 AM - 217488
+
+10:09:09 AM - filteredData1
+
+10:09:09 AM - getnextemp 8 13126
+
+10:09:09 AM - 21748 8
+
+10:09:09 AM - getreemp1
+
+10:09:09 AM - getnextemp1
+
+10:09:09 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:09 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:09 AM - MemoId 21748 8
+
+10:09:09 AM - นางสาว วรวลัญช์ จงภักดี delegate to นางสาว ธัญพิชชา พึ่งสุจริต
+
+10:09:09 AM - SubmitChanges
+
+10:09:09 AM - 219119
+
+10:09:09 AM - filteredData1
+
+10:09:09 AM - getnextemp 9 13253
+
+10:09:09 AM - 21911 9
+
+10:09:09 AM - getreemp1
+
+10:09:09 AM - getnextemp1
+
+10:09:09 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:09 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:09 AM - MemoId 21911 9
+
+10:09:09 AM - นาย วัฒนชัย เย็นแจ่ม delegate to นางสาว ธัญพิชชา พึ่งสุจริต
+
+10:09:09 AM - SubmitChanges
+
+10:09:09 AM - 2198010
+
+10:09:09 AM - filteredData1
+
+10:09:09 AM - getnextemp 10 13126
+
+10:09:09 AM - 21980 10
+
+10:09:09 AM - getreemp1
+
+10:09:09 AM - getnextemp1
+
+10:09:09 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:09 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:09 AM - MemoId 21980 10
+
+10:09:09 AM - นางสาว วรวลัญช์ จงภักดี delegate to นางสาว ธัญพิชชา พึ่งสุจริต
+
+10:09:09 AM - SubmitChanges
+
+10:09:09 AM - 2200811
+
+10:09:09 AM - filteredData1
+
+10:09:09 AM - getnextemp 11 173
+
+10:09:09 AM - 22008 11
+
+10:09:09 AM - getreemp1
+
+10:09:09 AM - getnextemp1
+
+10:09:09 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:09 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:09 AM - MemoId 22008 11
+
+10:09:09 AM - นางสาว สุภัทรา บูรณสถิตนนท์ delegate to นางสาว พัชรี สมนันตา
+
+10:09:09 AM - SubmitChanges
+
+10:09:09 AM - 2202612
+
+10:09:09 AM - filteredData1
+
+10:09:09 AM - getnextemp 12 173
+
+10:09:09 AM - 22026 12
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 22026 12
+
+10:09:10 AM - นางสาว สุภัทรา บูรณสถิตนนท์ delegate to นางสาว พัชรี สมนันตา
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2202713
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 13 173
+
+10:09:10 AM - 22027 13
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 22027 13
+
+10:09:10 AM - นางสาว สุภัทรา บูรณสถิตนนท์ delegate to นางสาว พัชรี สมนันตา
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2202814
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 14 173
+
+10:09:10 AM - 22028 14
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 22028 14
+
+10:09:10 AM - นางสาว สุภัทรา บูรณสถิตนนท์ delegate to นางสาว พัชรี สมนันตา
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2203015
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 15 173
+
+10:09:10 AM - 22030 15
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 22030 15
+
+10:09:10 AM - นางสาว สุภัทรา บูรณสถิตนนท์ delegate to นางสาว พัชรี สมนันตา
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2219916
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 16 13439
+
+10:09:10 AM - 22199 16
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 16 13143
+
+10:09:10 AM - 22199 16
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp2
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 22199 16
+
+10:09:10 AM - นางสาว อรนุช พิมพ์ลัดดา delegate to นางสาว พุทธชาด ศรีนิศากร
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2254217
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 17 521
+
+10:09:10 AM - 22542 17
+
+10:09:10 AM - 2257718
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 18 331
+
+10:09:10 AM - 22577 18
+
+10:09:10 AM - 2376919
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 19 11663
+
+10:09:10 AM - 23769 19
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 23769 19
+
+10:09:10 AM - นางสาว กมลวรรณ ก้อนทอง delegate to นางสาว วิพาภร อุ่นสุข
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2377120
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 20 11663
+
+10:09:10 AM - 23771 20
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 23771 20
+
+10:09:10 AM - นางสาว กมลวรรณ ก้อนทอง delegate to นางสาว วิพาภร อุ่นสุข
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2377421
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 21 11663
+
+10:09:10 AM - 23774 21
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 23774 21
+
+10:09:10 AM - นางสาว กมลวรรณ ก้อนทอง delegate to นางสาว วิพาภร อุ่นสุข
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2380522
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 22 11663
+
+10:09:10 AM - 23805 22
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp1
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 23805 22
+
+10:09:10 AM - นางสาว กมลวรรณ ก้อนทอง delegate to นางสาว วิพาภร อุ่นสุข
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2403423
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 23 20985
+
+10:09:10 AM - 24034 23
+
+10:09:10 AM - getreemp1
+
+10:09:10 AM - getnextemp2
+
+10:09:10 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:10 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:10 AM - MemoId 24034 23
+
+10:09:10 AM - นาย ณภัทร โพธิ์กระจ่าง delegate to นางสาว ณัฐธยาน์ เนาว์รุ่งโรจน์
+
+10:09:10 AM - SubmitChanges
+
+10:09:10 AM - 2404924
+
+10:09:10 AM - filteredData1
+
+10:09:10 AM - getnextemp 24 20783
+
+10:09:10 AM - 24049 24
+
+10:09:11 AM - 2407425
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 25 13294
+
+10:09:12 AM - 24074 25
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24074 25
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2412226
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 26 11583
+
+10:09:12 AM - 24122 26
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp2
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24122 26
+
+10:09:12 AM - นางสาว จรูญรัตน์ สาลี delegate to นาย สมพล ตรีภพนารถ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2415627
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 27 11583
+
+10:09:12 AM - 24156 27
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp2
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24156 27
+
+10:09:12 AM - นางสาว จรูญรัตน์ สาลี delegate to นาย สมพล ตรีภพนารถ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2416928
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 28 13294
+
+10:09:12 AM - 24169 28
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24169 28
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2423429
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 29 13294
+
+10:09:12 AM - 24234 29
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24234 29
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2428830
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 30 362
+
+10:09:12 AM - 24288 30
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp1
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24288 30
+
+10:09:12 AM - นางสาว เพ็ญพิมล ทองนอก delegate to นางสาว พัชรี สมนันตา
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2436231
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 31 13294
+
+10:09:12 AM - 24362 31
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24362 31
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2436632
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 32 13294
+
+10:09:12 AM - 24366 32
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24366 32
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2439633
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 33 13294
+
+10:09:12 AM - 24396 33
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24396 33
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2442034
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 34 13294
+
+10:09:12 AM - 24420 34
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24420 34
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2442135
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 35 13294
+
+10:09:12 AM - 24421 35
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24421 35
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2442236
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 36 13294
+
+10:09:12 AM - 24422 36
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24422 36
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2442537
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 37 13294
+
+10:09:12 AM - 24425 37
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24425 37
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2442638
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 38 13294
+
+10:09:12 AM - 24426 38
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24426 38
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2442839
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 39 13294
+
+10:09:12 AM - 24428 39
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24428 39
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2442940
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 40 13294
+
+10:09:12 AM - 24429 40
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24429 40
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2443041
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 41 13294
+
+10:09:12 AM - 24430 41
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24430 41
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2443242
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 42 13294
+
+10:09:12 AM - 24432 42
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24432 42
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2443643
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 43 13294
+
+10:09:12 AM - 24436 43
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24436 43
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2443744
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 44 13294
+
+10:09:12 AM - 24437 44
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24437 44
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2443945
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 45 13294
+
+10:09:12 AM - 24439 45
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24439 45
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2444046
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 46 13294
+
+10:09:12 AM - 24440 46
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24440 46
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2444147
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 47 13294
+
+10:09:12 AM - 24441 47
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24441 47
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2444248
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 48 13294
+
+10:09:12 AM - 24442 48
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24442 48
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2444349
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 49 13294
+
+10:09:12 AM - 24443 49
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24443 49
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2444450
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 50 13294
+
+10:09:12 AM - 24444 50
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24444 50
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2444551
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 51 13294
+
+10:09:12 AM - 24445 51
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24445 51
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2444752
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 52 13294
+
+10:09:12 AM - 24447 52
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24447 52
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2444853
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 53 13294
+
+10:09:12 AM - 24448 53
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24448 53
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2445054
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 54 13294
+
+10:09:12 AM - 24450 54
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24450 54
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2445155
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 55 13294
+
+10:09:12 AM - 24451 55
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24451 55
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2445356
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 56 13294
+
+10:09:12 AM - 24453 56
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24453 56
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2445657
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 57 13294
+
+10:09:12 AM - 24456 57
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24456 57
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2445758
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 58 13294
+
+10:09:12 AM - 24457 58
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24457 58
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2445959
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 59 13294
+
+10:09:12 AM - 24459 59
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24459 59
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2446060
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 60 13294
+
+10:09:12 AM - 24460 60
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24460 60
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2446261
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 61 13294
+
+10:09:12 AM - 24462 61
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24462 61
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2446362
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 62 13294
+
+10:09:12 AM - 24463 62
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24463 62
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2446463
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 63 13294
+
+10:09:12 AM - 24464 63
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24464 63
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2446864
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 64 13294
+
+10:09:12 AM - 24468 64
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24468 64
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2447065
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 65 13294
+
+10:09:12 AM - 24470 65
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24470 65
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2447266
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 66 13294
+
+10:09:12 AM - 24472 66
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24472 66
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2447367
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 67 13294
+
+10:09:12 AM - 24473 67
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24473 67
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2447668
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 68 13294
+
+10:09:12 AM - 24476 68
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24476 68
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2447969
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 69 13294
+
+10:09:12 AM - 24479 69
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24479 69
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2448270
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 70 13294
+
+10:09:12 AM - 24482 70
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24482 70
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2448671
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 71 13294
+
+10:09:12 AM - 24486 71
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24486 71
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2448872
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 72 13294
+
+10:09:12 AM - 24488 72
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24488 72
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2449073
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 73 13294
+
+10:09:12 AM - 24490 73
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24490 73
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2449374
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 74 13294
+
+10:09:12 AM - 24493 74
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24493 74
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2449575
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 75 13294
+
+10:09:12 AM - 24495 75
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24495 75
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2449676
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 76 13294
+
+10:09:12 AM - 24496 76
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24496 76
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2449877
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 77 13294
+
+10:09:12 AM - 24498 77
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24498 77
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2450078
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 78 13294
+
+10:09:12 AM - 24500 78
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24500 78
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2450279
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 79 13294
+
+10:09:12 AM - 24502 79
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24502 79
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2450480
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 80 13294
+
+10:09:12 AM - 24504 80
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24504 80
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2450581
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 81 13294
+
+10:09:12 AM - 24505 81
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24505 81
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2450782
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 82 13294
+
+10:09:12 AM - 24507 82
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24507 82
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2454283
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 83 13294
+
+10:09:12 AM - 24542 83
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24542 83
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2454384
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 84 13294
+
+10:09:12 AM - 24543 84
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24543 84
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2454485
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 85 13294
+
+10:09:12 AM - 24544 85
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24544 85
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2454886
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 86 13294
+
+10:09:12 AM - 24548 86
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24548 86
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2454987
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 87 13294
+
+10:09:12 AM - 24549 87
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24549 87
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2455088
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 88 13294
+
+10:09:12 AM - 24550 88
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24550 88
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2455189
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 89 13294
+
+10:09:12 AM - 24551 89
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:12 AM - MemoId 24551 89
+
+10:09:12 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:12 AM - SubmitChanges
+
+10:09:12 AM - 2455490
+
+10:09:12 AM - filteredData1
+
+10:09:12 AM - getnextemp 90 13294
+
+10:09:12 AM - 24554 90
+
+10:09:12 AM - getreemp1
+
+10:09:12 AM - getnextemp6
+
+10:09:12 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:12 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24554 90
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2455691
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 91 13294
+
+10:09:13 AM - 24556 91
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24556 91
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2455792
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 92 13294
+
+10:09:13 AM - 24557 92
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24557 92
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2456193
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 93 13294
+
+10:09:13 AM - 24561 93
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24561 93
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2456394
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 94 13294
+
+10:09:13 AM - 24563 94
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24563 94
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2456895
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 95 13294
+
+10:09:13 AM - 24568 95
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24568 95
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2457196
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 96 13294
+
+10:09:13 AM - 24571 96
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24571 96
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2457297
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 97 13294
+
+10:09:13 AM - 24572 97
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24572 97
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2457398
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 98 13294
+
+10:09:13 AM - 24573 98
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24573 98
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 2457499
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 99 13294
+
+10:09:13 AM - 24574 99
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24574 99
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24576100
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 100 13294
+
+10:09:13 AM - 24576 100
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24576 100
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24577101
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 101 13294
+
+10:09:13 AM - 24577 101
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24577 101
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24578102
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 102 13294
+
+10:09:13 AM - 24578 102
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24578 102
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24579103
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 103 13294
+
+10:09:13 AM - 24579 103
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24579 103
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24580104
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 104 13294
+
+10:09:13 AM - 24580 104
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24580 104
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24581105
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 105 13294
+
+10:09:13 AM - 24581 105
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24581 105
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24583106
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 106 13294
+
+10:09:13 AM - 24583 106
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24583 106
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24584107
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 107 13294
+
+10:09:13 AM - 24584 107
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24584 107
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24622108
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 108 13294
+
+10:09:13 AM - 24622 108
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24622 108
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24624109
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 109 13294
+
+10:09:13 AM - 24624 109
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24624 109
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24625110
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 110 13294
+
+10:09:13 AM - 24625 110
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24625 110
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24626111
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 111 13294
+
+10:09:13 AM - 24626 111
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24626 111
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24630112
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 112 13294
+
+10:09:13 AM - 24630 112
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24630 112
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24632113
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 113 13294
+
+10:09:13 AM - 24632 113
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24632 113
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24633114
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 114 13294
+
+10:09:13 AM - 24633 114
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24633 114
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24634115
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 115 13294
+
+10:09:13 AM - 24634 115
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24634 115
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24635116
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 116 13294
+
+10:09:13 AM - 24635 116
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24635 116
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24637117
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 117 13294
+
+10:09:13 AM - 24637 117
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24637 117
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24646118
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 118 13294
+
+10:09:13 AM - 24646 118
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24646 118
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24647119
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 119 13294
+
+10:09:13 AM - 24647 119
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24647 119
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24648120
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 120 13294
+
+10:09:13 AM - 24648 120
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24648 120
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24649121
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 121 13294
+
+10:09:13 AM - 24649 121
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24649 121
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24650122
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 122 13294
+
+10:09:13 AM - 24650 122
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24650 122
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24651123
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 123 13294
+
+10:09:13 AM - 24651 123
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24651 123
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24652124
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 124 13294
+
+10:09:13 AM - 24652 124
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24652 124
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24654125
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 125 13294
+
+10:09:13 AM - 24654 125
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24654 125
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24655126
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 126 13294
+
+10:09:13 AM - 24655 126
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24655 126
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24657127
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 127 13294
+
+10:09:13 AM - 24657 127
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24657 127
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24661128
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 128 13294
+
+10:09:13 AM - 24661 128
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24661 128
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24662129
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 129 13294
+
+10:09:13 AM - 24662 129
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24662 129
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24665130
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 130 13294
+
+10:09:13 AM - 24665 130
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24665 130
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24666131
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 131 13294
+
+10:09:13 AM - 24666 131
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24666 131
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24667132
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 132 13294
+
+10:09:13 AM - 24667 132
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24667 132
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24668133
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 133 13294
+
+10:09:13 AM - 24668 133
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24668 133
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24669134
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 134 13294
+
+10:09:13 AM - 24669 134
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24669 134
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24670135
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 135 13294
+
+10:09:13 AM - 24670 135
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24670 135
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24671136
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 136 13294
+
+10:09:13 AM - 24671 136
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24671 136
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24672137
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 137 13294
+
+10:09:13 AM - 24672 137
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24672 137
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24673138
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 138 13294
+
+10:09:13 AM - 24673 138
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24673 138
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24674139
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 139 13294
+
+10:09:13 AM - 24674 139
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24674 139
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24675140
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 140 13294
+
+10:09:13 AM - 24675 140
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24675 140
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24676141
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 141 13294
+
+10:09:13 AM - 24676 141
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24676 141
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24677142
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 142 13294
+
+10:09:13 AM - 24677 142
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24677 142
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24678143
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 143 13294
+
+10:09:13 AM - 24678 143
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24678 143
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24679144
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 144 13294
+
+10:09:13 AM - 24679 144
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24679 144
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24680145
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 145 13294
+
+10:09:13 AM - 24680 145
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24680 145
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24707146
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 146 13294
+
+10:09:13 AM - 24707 146
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24707 146
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24745147
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 147 13294
+
+10:09:13 AM - 24745 147
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24745 147
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24747148
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 148 13294
+
+10:09:13 AM - 24747 148
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24747 148
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24904149
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 149 13294
+
+10:09:13 AM - 24904 149
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24904 149
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24906150
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 150 13294
+
+10:09:13 AM - 24906 150
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24906 150
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24907151
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 151 13294
+
+10:09:13 AM - 24907 151
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24907 151
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24910152
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 152 13294
+
+10:09:13 AM - 24910 152
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:13 AM - MemoId 24910 152
+
+10:09:13 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:13 AM - SubmitChanges
+
+10:09:13 AM - 24911153
+
+10:09:13 AM - filteredData1
+
+10:09:13 AM - getnextemp 153 13294
+
+10:09:13 AM - 24911 153
+
+10:09:13 AM - getreemp1
+
+10:09:13 AM - getnextemp6
+
+10:09:13 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:13 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 24911 153
+
+10:09:14 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 24913154
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 154 13294
+
+10:09:14 AM - 24913 154
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp6
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 24913 154
+
+10:09:14 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 24915155
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 155 13294
+
+10:09:14 AM - 24915 155
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp6
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 24915 155
+
+10:09:14 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 24916156
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 156 13294
+
+10:09:14 AM - 24916 156
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp6
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 24916 156
+
+10:09:14 AM - นางสาว ขวัญรัตน์ เพชรแสงธรรม delegate to นาง ณัฏฐิรา บุญลือ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 25076157
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 157 11583
+
+10:09:14 AM - 25076 157
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 25076 157
+
+10:09:14 AM - นางสาว จรูญรัตน์ สาลี delegate to นาย สมพล ตรีภพนารถ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 25098158
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 158 11710
+
+10:09:14 AM - 25098 158
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 25098 158
+
+10:09:14 AM - นาย สาธิต สายศร delegate to นาย สุเวทย์ ธีรวชิรกุล
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 25467159
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 159 20783
+
+10:09:14 AM - 25467 159
+
+10:09:14 AM - 25490160
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 160 20783
+
+10:09:14 AM - 25490 160
+
+10:09:14 AM - 26227161
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 161 408
+
+10:09:14 AM - 26227 161
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp3
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 26227 161
+
+10:09:14 AM - นาย กฤษฎา บุตรอินทร์ delegate to นาย ประหยัด บุญคำ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 26461162
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 162 9121
+
+10:09:14 AM - 26461 162
+
+10:09:14 AM - 27500163
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 163 21195
+
+10:09:14 AM - 27500 163
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 27500 163
+
+10:09:14 AM - นางสาว อัญชสา เฟื่องศิลา delegate to นาย สมพล ตรีภพนารถ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 27503164
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 164 14711
+
+10:09:14 AM - 27503 164
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 27503 164
+
+10:09:14 AM - นางสาว อัญชสา เฟื่องศิลา delegate to นางสาว จรูญรัตน์ สาลี
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 27505165
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 165 21113
+
+10:09:14 AM - 27505 165
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp1
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 27505 165
+
+10:09:14 AM - นาย ปรัชญา ติงสะ delegate to นาย มงคล เพียรพิทักษ์กิจ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 27525166
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 166 11631
+
+10:09:14 AM - 27525 166
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp1
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 27525 166
+
+10:09:14 AM - นาง ภารวี สังสมศักดิ์ delegate to นาง วรารัตน์ บุณยานนท์
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 27565167
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 167 13188
+
+10:09:14 AM - 27565 167
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 27565 167
+
+10:09:14 AM - นาย พงษ์พันธุ์ พริ้งมงคล delegate to นาย สุรัตชัย สินเสนาะ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 28579168
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 168 20858
+
+10:09:14 AM - 28579 168
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 168 20859
+
+10:09:14 AM - 28579 168
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp1
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 28579 168
+
+10:09:14 AM - นาย ไกรวิน ศรีไกรวิน delegate to นาย สมพล ตรีภพนารถ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 28610169
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 169 20858
+
+10:09:14 AM - 28610 169
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 169 20859
+
+10:09:14 AM - 28610 169
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp1
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 28610 169
+
+10:09:14 AM - นาย ไกรวิน ศรีไกรวิน delegate to นาย สมพล ตรีภพนารถ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 29232170
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 170 12115
+
+10:09:14 AM - 29232 170
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 29232 170
+
+10:09:14 AM - นางสาว นันทิยา บุญพิลา delegate to นาย ศตวรรษ หลักแหลม
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 29244171
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 171 21683
+
+10:09:14 AM - 29244 171
+
+10:09:14 AM - 29593172
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 172 13143
+
+10:09:14 AM - 29593 172
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp2
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 29593 172
+
+10:09:14 AM - นาย คีตวัฒน์ ต้องเคียน delegate to นางสาว พุทธชาด ศรีนิศากร
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 30693173
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 173 24
+
+10:09:14 AM - 30693 173
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp3
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 30693 173
+
+10:09:14 AM - นาย ไชยศักดิ์ ว่องกุลเกียรติ delegate to นาย ประหยัด บุญคำ
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 31473174
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 174 15431
+
+10:09:14 AM - 31473 174
+
+10:09:14 AM - 32380175
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 175 11667
+
+10:09:14 AM - 32380 175
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp1
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 32380 175
+
+10:09:14 AM - นางสาว ดวงกมล บุญคง delegate to นาย ประสาน น้อมบุญส่งศรี
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 32392176
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 176 11667
+
+10:09:14 AM - 32392 176
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp1
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 32392 176
+
+10:09:14 AM - นางสาว ดวงกมล บุญคง delegate to นาย ประสาน น้อมบุญส่งศรี
+
+10:09:14 AM - SubmitChanges
+
+10:09:14 AM - 33070177
+
+10:09:14 AM - filteredData1
+
+10:09:14 AM - getnextemp 177 12768
+
+10:09:14 AM - 33070 177
+
+10:09:14 AM - getreemp1
+
+10:09:14 AM - getnextemp1
+
+10:09:14 AM - getisative System.Collections.Generic.List`1[System.Nullable`1[System.Boolean]]
+
+10:09:14 AM - getmemochange System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:14 AM - MemoId 33070 177
+
+10:09:14 AM - นาง พิมพ์พลอย ศรีแก้ว delegate to นาย ภัทรพล ตันติยะบุตร
+
+10:09:14 AM - SubmitChanges
+
+10:09:17 AM - Open
+
+10:09:17 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.MSTEmployee]
+
+10:09:17 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.ViewEmployee]
+
+10:09:18 AM - getMemoAllSystem.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:19 AM - getMemoWaitApp 2228
+
+10:09:19 AM - getMemo 8
+
+10:09:19 AM - 225421
+
+10:09:19 AM - filteredData1
+
+10:09:19 AM - getnextemp 1 521
+
+10:09:19 AM - 22542 1
+
+10:09:19 AM - 225772
+
+10:09:19 AM - filteredData1
+
+10:09:19 AM - getnextemp 2 331
+
+10:09:19 AM - 22577 2
+
+10:09:19 AM - 240493
+
+10:09:19 AM - filteredData1
+
+10:09:19 AM - getnextemp 3 20783
+
+10:09:19 AM - 24049 3
+
+10:09:19 AM - 254674
+
+10:09:19 AM - filteredData1
+
+10:09:19 AM - getnextemp 4 20783
+
+10:09:19 AM - 25467 4
+
+10:09:19 AM - 254905
+
+10:09:19 AM - filteredData1
+
+10:09:19 AM - getnextemp 5 20783
+
+10:09:19 AM - 25490 5
+
+10:09:19 AM - 264616
+
+10:09:19 AM - filteredData1
+
+10:09:19 AM - getnextemp 6 9121
+
+10:09:19 AM - 26461 6
+
+10:09:19 AM - 292447
+
+10:09:19 AM - filteredData1
+
+10:09:19 AM - getnextemp 7 21683
+
+10:09:19 AM - 29244 7
+
+10:09:19 AM - 314738
+
+10:09:19 AM - filteredData1
+
+10:09:19 AM - getnextemp 8 15431
+
+10:09:19 AM - 31473 8
+
+10:09:23 AM - Open
+
+10:09:23 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.MSTEmployee]
+
+10:09:23 AM - System.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.ViewEmployee]
+
+10:09:24 AM - getMemoAllSystem.Collections.Generic.List`1[WOLF_START_ReplaceReportMBK_PROCESS.TRNMemo]
+
+10:09:24 AM - getMemoWaitApp 2228
+
+10:09:24 AM - getMemo 8
+
+10:09:24 AM - 225421
+
+10:09:24 AM - filteredData1
+
+10:09:24 AM - getnextemp 1 521
+
+10:09:24 AM - 22542 1
+
