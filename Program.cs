@@ -23,7 +23,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                 if (!string.IsNullOrEmpty(_logfile))
                 {
                     return _logfile;
-                    Console.WriteLine("Hi Heelo");
+                   
                 }
                 return "C:\\Users\\thearaphat\\source\\jobrun\\WOLF_START_ReplaceReportMBK_PROCESS\\WOLF_START_ReplaceReportMBK_PROCESS\\Log\\";
             }
@@ -80,6 +80,8 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
             DataClasses1DataContext db = new DataClasses1DataContext(dbconnectstring);
             try
             {
+             
+                
                 if (db.Connection.State == ConnectionState.Open)
                 {
                     db.Connection.Close();
@@ -87,6 +89,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                 }
                 db.Connection.Open();
                 db.CommandTimeout = 0;
+                WriteLogFile("Start Job");
                 WriteLogFile(db.Connection.State.ToString());
                 WriteLogFile(dbconnectstring.ToString());
                 List<MSTEmployee> getEmployee = db.MSTEmployees.Where(z => z.IsActive == false).ToList();
@@ -107,6 +110,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                     i++;
                     Console.WriteLine("getMemoCount " + getMemo.Count());
                     Console.WriteLine("getdataMemoid " + getdata.MemoId +" "+ i);
+                    WriteLogFile("getMemoCount " + getMemo.Count());
                     WriteLogFile(getdata.MemoId + i.ToString());
                     bool hasNewEmployees = true;
                     var filteredData = getEmployee2.FindAll(z => z.EmployeeId == getdata.PersonWaitingId).ToList();
@@ -120,12 +124,14 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                             WriteLogFile("filteredData" + filteredData.Count);
                             // Console.WriteLine("getnextemp " + i + getnextemp.EmployeeId.ToString());
                             Console.WriteLine("Employeeid = " + getnextemp.EmployeeId.ToString() + " Isative = " + getnextemp.IsActive.ToString());
+                            WriteLogFile("Employeeid = " + getnextemp.EmployeeId.ToString() + " Isative = " + getnextemp.IsActive.ToString());
                             WriteLogFile("getnextemp " + i +" "+ getnextemp.EmployeeId.ToString());
                             WriteLogFile(getdata.MemoId +" "+ i.ToString());
                             var getreemp = getEmployee2.Where(z => z.EmployeeId.ToString() == getnextemp.ReportToEmpCode).ToList();
                             //Console.WriteLine("getReportto " + getreemp[0].EmployeeId.ToString() + " Isative = " + getreemp[0].IsActive.ToString());
                             if (getreemp.Count() == 0)
                             {
+                                WriteLogFile("getnextemp.ReportToEmpCode1 "+getnextemp.ReportToEmpCode.ToString());
                                 continue;
                             }
                             WriteLogFile("getreemp" + getreemp.Count());
@@ -142,6 +148,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                                 additionalEmployees.AddRange(getreemp);
                                 if (getreemp.Any(x => x.ReportToEmpCode == null || x.ReportToEmpCode == "0"))
                                 {
+                                    WriteLogFile("getnextemp.ReportToEmpCode2 " + getnextemp.ReportToEmpCode.ToString());
                                     continue;
                                 }
                             }
@@ -155,6 +162,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                                     newMemo.PersonWaitingId = getreemp[0].EmployeeId;
                                     newMemo.PersonWaiting = getreemp[0].NameTh;
                                     db.SubmitChanges();
+                                    WriteLogFile("SubmitChanges NewMEmoPersonWaitingId and NewMemoPersonWaiting" + newMemo.PersonWaitingId + " " + newMemo.PersonWaiting.ToString());
                                     List<TRNLineApprove> getLineApprove = db.TRNLineApproves.Where(x => x.MemoId == getdata.MemoId && x.EmployeeId == getdata.PersonWaitingId).ToList();
                                     foreach (TRNLineApprove newLineApprove in getLineApprove)
                                     {
@@ -166,6 +174,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                                         newLineApprove.PositionEN = getviewempnew[0].PositionNameEn;
 
                                         db.SubmitChanges();
+                                        WriteLogFile("SubmitChanges lineapprove" + newLineApprove.EmployeeId + newLineApprove.NameTh.ToString());
                                     }
                                     TRNActionHistory newActionHistory = new TRNActionHistory();
 
@@ -177,6 +186,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                                     newActionHistory.ActionProcess = "Delegate";
                                     newActionHistory.Comment = getdata.PersonWaiting + " delegate to " + getviewempnew[0].NameTh;
                                     WriteLogFile(getdata.PersonWaiting + " delegate to " + getviewempnew[0].NameTh);
+                                    
                                     Console.WriteLine(getdata.PersonWaiting  + " delegate to " + getviewempnew[0].NameTh);
                                     newActionHistory.ActionStatus = "Delegate";
                                     newActionHistory.SignatureId = 1;
@@ -194,7 +204,7 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
 
                                     db.TRNActionHistories.InsertOnSubmit(newActionHistory);
                                     db.SubmitChanges();
-                                    WriteLogFile("SubmitChanges");
+                                    WriteLogFile("SubmitChanges" + getdata.PersonWaitingId + " delegate to " + getviewempnew[0].EmployeeId);
                                     Console.WriteLine("SubmitChanges");
 
                                 }
@@ -217,8 +227,12 @@ namespace WOLF_START_ReplaceReportMBK_PROCESS
                         
                     }
                     Console.WriteLine("Finish " + getdata.MemoId);
+                    WriteLogFile("Finish Memoid" + getdata.MemoId);
+                    WriteLogFile("-----------------------------------------------------------------------------------------");
                 }
-            }catch(Exception ex)
+                WriteLogFile("End Job");
+            }
+            catch(Exception ex)
             {
                 WriteLogFile(ex.ToString());
             }
